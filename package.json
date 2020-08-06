@@ -9,7 +9,7 @@
   "type" : "module",
   "devDependencies": {},
   "scripts": {
-      "start" : "node src/index.js"
+      "start" : "node src/index.mjs"
   },
   "repository": {
     "type": "git",

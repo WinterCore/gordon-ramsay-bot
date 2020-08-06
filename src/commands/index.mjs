@@ -1,5 +1,5 @@
-import insult from "./insult.js"
-import help   from "./help.js";
+import insult from "./insult.mjs"
+import help   from "./help.mjs";
 
 export const handleCommand = (msg, msgContent) => {
     const [command, ...args] = msgContent.split(' ');

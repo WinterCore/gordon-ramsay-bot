@@ -1,6 +1,6 @@
 import { readFileSync } from "fs";
 
-import { randomInt } from "../helpers.js";
+import { randomInt } from "../helpers.mjs";
 
 const insults = JSON.parse(readFileSync("data/insults.json"));
 const insultsLength = insults.length;

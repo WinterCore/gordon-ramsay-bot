@@ -1,5 +1,5 @@
 import Discord           from "discord.js";
-import { handleCommand } from "./commands/index.js";
+import { handleCommand } from "./commands/index.mjs";
 
 const client = new Discord.Client();
 
