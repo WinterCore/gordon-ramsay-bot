@@ -1,5 +1,7 @@
 # A Gordon Ramsay Discord Bot
 
+![Gordon](https://i.imgur.com/42hRIkp.png)
+
 ## How to run locally
 - Make sure [Node](https://nodejs.org/en/) and [Git](https://git-scm.com/downloads) are installed on your system.
 - Create a new discord application that contains a bot [Explanation](https://discordpy.readthedocs.io/en/latest/discord.html)
