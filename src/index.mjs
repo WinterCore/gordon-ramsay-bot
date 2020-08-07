@@ -9,7 +9,7 @@ client.on("ready", () => {
 
 client.on("message", (msg) => {
     if (msg.content.startsWith(".g ")) {
-        handleCommand(msg, msg.content.slice(3));
+        handleCommand(msg, msg.content.slice(3)).catch(console.log);
     }
 });
 
