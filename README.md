@@ -4,12 +4,12 @@
 
 ## How to run locally
 - Make sure [Node](https://nodejs.org/en/) and [Git](https://git-scm.com/downloads) are installed on your system.
-- Create a new discord application that contains a bot [Explanation](https://discordpy.readthedocs.io/en/latest/discord.html)
+- Create a new discord application that contains a bot ([Explanation](https://discordpy.readthedocs.io/en/latest/discord.html))
 - Copy your bot's API Token by clicking on the "Click to Reveal Token" link
 - Clone this repository by running `git clone https://github.com/WinterCore/gordon-ramsay-bot.git`
 - Run `cd gordon-ramsay-bot`
 - Run `npm install`
-- And to run the bot `GORDON_TOKEN=<your_token> npm start`
+- And to run the bot `GORDON_TOKEN=<your_token> GIPHY_TOKEN=<giphy_token> npm start`
 
 ## Commands
 
