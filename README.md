@@ -16,6 +16,7 @@
 #### NOTE: The default prefix for all of the commands is `.g`
 
 - `.g insult @someone` Insults the person mentioned (works with multiple mentions and @everyone).
+- `.g curse` Join a voice channel before using this command and you'll find out what it does.
 - `.g help` Provides a link to this page.
 
 
